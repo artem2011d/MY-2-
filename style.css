@@ -1,0 +1,72 @@
+header,footer{
+    align-items: center;
+    display: flex;
+    background-color: rgb(133, 253, 149);
+    justify-content: center;
+    grid-area: 70px;
+}
+ul{
+
+    list-style: none;
+}
+a{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.hi{
+    display: flex;
+    gap: 50px;
+}
+body{
+    margin: 0;
+}
+
+h1,p,h2,
+.skills{
+    margin-left: 550px;
+}        ul {
+    list-style: none;
+  }
+  .nav {
+    display: flex;
+    gap: 70px;
+  }
+
+  .contact {
+    display: flex;
+   gap: 30px;
+    justify-content: center;
+    
+  }
+
+  header,
+  footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    height: 50px;
+  }
+
+  a {
+    font-size: 22px;
+    color: rgb(60, 204, 16);
+    text-decoration: none;
+  }
+  * {
+    margin: 0;
+  }
+  
+  img{
+    transition: 2s;
+  }
+
+  img:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+  }
+  .box{
+display: flex;
+
+  }
+ 
